@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain-community
+langchain-core
+javalang==0.13.0
+tree-sitter==0.20.3
+openai
+tiktoken
+pandas
+pydantic>=2.7.4
+python-dotenv
+pyyaml
+requests
+colorama
+tqdm
